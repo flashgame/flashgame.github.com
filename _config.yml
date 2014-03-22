@@ -1,0 +1,14 @@
+markdown: rdiscount 
+permalink: /:title 
+title: Wang's Blog
+url: http://flashgame.github.com
+subscribe: http://flashgame.github.com/feed.xml
+exclude: [ README.md, newpost.rb ]
+domain: flashgame.github.com
+author: Wang
+email: qqdreamfly@gmail.com
+auto: true
+twitterID: qqdreamfly
+googleAnalyticsID: UA-49269919-1
+disqusShortname: wangjq
+paginate: 12
