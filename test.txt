@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 the third commit!
 
 i want to know how revert and rollback.
 
 now ,i'll revert.
+=======
+ÏëÒªÁË½âÒ»ÏÂrevertºÍroll backµÄ²Ù×÷¡£
+ÕâÀïÊÇµÚÒ»´ÎÌá½»¡£
+>>>>>>> parent of 9923c57... ç¬¬äºŒæ¬¡æäº¤
