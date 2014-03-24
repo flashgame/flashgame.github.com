@@ -3,7 +3,10 @@ author: wang
 comments: true
 layout: post
 title: 测试博客系统
-tags:["测试","博客，人家"]
+tags:
+	-tags,tags2
+	-tags3
+	-tags4
 ---
 # 测试博客系统
 博客的文章是由以下部分组成的：
