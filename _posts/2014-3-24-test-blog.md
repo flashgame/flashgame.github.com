@@ -1,6 +1,5 @@
 ---
-author: wang
-comments: true
+date:2014-3-24 10:58:00
 layout: post
 title: 测试博客系统
 tags:
