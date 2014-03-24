@@ -1,6 +1,5 @@
-想要了解一下revert和roll back的操作。
-这里是第一次提交。
+the third commit!
 
-这里是第二次提交
-提交内容
-ksdlfksdlfjl
+i want to know how revert and rollback.
+
+now ,i'll revert.
